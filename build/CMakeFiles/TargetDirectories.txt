@@ -1,0 +1,3 @@
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/opencvtest.dir
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/ALL_BUILD.dir
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/ZERO_CHECK.dir

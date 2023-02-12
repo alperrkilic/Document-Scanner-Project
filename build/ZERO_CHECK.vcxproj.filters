@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\build\CMakeFiles\56e74aa990c33a4ec4a02626ff2e28bc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CE6398C-73E6-32E0-9CFE-DFEADCA0F959}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

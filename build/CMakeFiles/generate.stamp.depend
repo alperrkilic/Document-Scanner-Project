@@ -1,0 +1,31 @@
+# CMake generation dependency list for this directory.
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/CMakeLists.txt
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/3.26.0-rc1/CMakeCCompiler.cmake
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/3.26.0-rc1/CMakeCXXCompiler.cmake
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/3.26.0-rc1/CMakeRCCompiler.cmake
+C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/3.26.0-rc1/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/opencv/build/x64/vc16/lib/OpenCVConfig-version.cmake
+C:/opencv/build/x64/vc16/lib/OpenCVConfig.cmake
+C:/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake
+C:/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake
+C:/opencv/build/x64/vc16/lib/OpenCVModules.cmake

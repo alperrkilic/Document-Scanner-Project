@@ -1,0 +1,10 @@
+^C:\OPEN-CV PROJECTS\DOCUMENT SCANNER PROJECT\IMAGE-PROCESSING\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/OPEN-CV Projects/Document Scanner Project/Image-Processing" "-BC:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build" --check-stamp-file "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\CMakelists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FD087B3-7155-354B-B90C-4C44E8403F41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
