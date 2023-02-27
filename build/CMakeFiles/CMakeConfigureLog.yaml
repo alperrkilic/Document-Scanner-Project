@@ -5,7 +5,7 @@ events:
     kind: "message-v1"
     backtrace:
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
-      - "CMakeLists.txt:2 (project)"
+      - "CMakeLists.txt:3 (project)"
     message: |
       The system is: Windows - 10.0.22621 - AMD64
   -
@@ -14,7 +14,7 @@ events:
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
+      - "CMakeLists.txt:3 (project)"
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
       Compiler:  
@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Oluşturma başlatıldı: 12.02.2023 21:31:36.
+      Oluşturma başlatıldı: 22.02.2023 22:33:16.
       1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\3.26.0-rc1\\CompilerIdC\\CompilerIdC.vcxproj" projesi (varsayılan hedefler).
       PrepareForBuild:
         "Debug\\" dizini oluşturuluyor.
@@ -50,7 +50,7 @@ events:
           0 Uyarı
           0 Hata
       
-      Geçen Süre 00:00:00.77
+      Geçen Süre 00:00:00.88
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -66,7 +66,7 @@ events:
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
+      - "CMakeLists.txt:3 (project)"
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
       Compiler:  
@@ -76,7 +76,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Oluşturma başlatıldı: 12.02.2023 21:31:37.
+      Oluşturma başlatıldı: 22.02.2023 22:33:17.
       1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\3.26.0-rc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" projesi (varsayılan hedefler).
       PrepareForBuild:
         "Debug\\" dizini oluşturuluyor.
@@ -102,7 +102,7 @@ events:
           0 Uyarı
           0 Hata
       
-      Geçen Süre 00:00:00.58
+      Geçen Süre 00:00:00.69
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -117,48 +117,48 @@ events:
     backtrace:
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
+      - "CMakeLists.txt:3 (project)"
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-exvcr6"
-      binary: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-exvcr6"
+      source: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-e7544k"
+      binary: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-e7544k"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-exvcr6
+        Change Dir: C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-e7544k
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_f8e45.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Oluşturma başlatıldı: 12.02.2023 21:31:38.
-        1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exvcr6\\cmTC_f8e45.vcxproj" projesi (varsayılan hedefler).
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b1fb3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
+        Oluşturma başlatıldı: 22.02.2023 22:33:18.
+        1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e7544k\\cmTC_b1fb3.vcxproj" projesi (varsayılan hedefler).
         PrepareForBuild:
-          "cmTC_f8e45.dir\\Debug\\" dizini oluşturuluyor.
-          "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exvcr6\\Debug\\" dizini oluşturuluyor.
-          "cmTC_f8e45.dir\\Debug\\cmTC_f8e45.tlog\\" dizini oluşturuluyor.
+          "cmTC_b1fb3.dir\\Debug\\" dizini oluşturuluyor.
+          "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e7544k\\Debug\\" dizini oluşturuluyor.
+          "cmTC_b1fb3.dir\\Debug\\cmTC_b1fb3.tlog\\" dizini oluşturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildiği için "cmTC_f8e45.dir\\Debug\\cmTC_f8e45.tlog\\unsuccessfulbuild" oluşturuluyor.
+          "AlwaysCreate" belirtildiği için "cmTC_b1fb3.dir\\Debug\\cmTC_b1fb3.tlog\\unsuccessfulbuild" oluşturuluyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f8e45.dir\\Debug\\\\" /Fd"cmTC_f8e45.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b1fb3.dir\\Debug\\\\" /Fd"cmTC_b1fb3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.34.31937
           CMakeCCompilerABI.c
           Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f8e45.dir\\Debug\\\\" /Fd"cmTC_f8e45.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b1fb3.dir\\Debug\\\\" /Fd"cmTC_b1fb3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exvcr6\\Debug\\cmTC_f8e45.exe" /INCREMENTAL /ILK:"cmTC_f8e45.dir\\Debug\\cmTC_f8e45.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-exvcr6/Debug/cmTC_f8e45.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-exvcr6/Debug/cmTC_f8e45.lib" /MACHINE:X64  /machine:x64 cmTC_f8e45.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_f8e45.vcxproj -> C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exvcr6\\Debug\\cmTC_f8e45.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e7544k\\Debug\\cmTC_b1fb3.exe" /INCREMENTAL /ILK:"cmTC_b1fb3.dir\\Debug\\cmTC_b1fb3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-e7544k/Debug/cmTC_b1fb3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-e7544k/Debug/cmTC_b1fb3.lib" /MACHINE:X64  /machine:x64 cmTC_b1fb3.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_b1fb3.vcxproj -> C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e7544k\\Debug\\cmTC_b1fb3.exe
         FinalizeBuildStatus:
-          "cmTC_f8e45.dir\\Debug\\cmTC_f8e45.tlog\\unsuccessfulbuild" dosyası siliniyor.
-          "cmTC_f8e45.dir\\Debug\\cmTC_f8e45.tlog\\cmTC_f8e45.lastbuildstate" öğesine erişiliyor.
-        "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-exvcr6\\cmTC_f8e45.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+          "cmTC_b1fb3.dir\\Debug\\cmTC_b1fb3.tlog\\unsuccessfulbuild" dosyası siliniyor.
+          "cmTC_b1fb3.dir\\Debug\\cmTC_b1fb3.tlog\\cmTC_b1fb3.lastbuildstate" öğesine erişiliyor.
+        "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e7544k\\cmTC_b1fb3.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
         
         Oluşturma başarılı oldu.
             0 Uyarı
             0 Hata
         
-        Geçen Süre 00:00:00.58
+        Geçen Süre 00:00:00.65
         
       exitCode: 0
   -
@@ -166,48 +166,48 @@ events:
     backtrace:
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
       - "C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
+      - "CMakeLists.txt:3 (project)"
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6wbslq"
-      binary: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6wbslq"
+      source: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6l3w3i"
+      binary: "C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6l3w3i"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6wbslq
+        Change Dir: C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6l3w3i
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_90e69.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Oluşturma başlatıldı: 12.02.2023 21:31:39.
-        1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6wbslq\\cmTC_90e69.vcxproj" projesi (varsayılan hedefler).
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_851cf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.4.1+9a89d02ff for .NET Framework
+        Oluşturma başlatıldı: 22.02.2023 22:33:19.
+        1 düğümünde "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6l3w3i\\cmTC_851cf.vcxproj" projesi (varsayılan hedefler).
         PrepareForBuild:
-          "cmTC_90e69.dir\\Debug\\" dizini oluşturuluyor.
-          "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6wbslq\\Debug\\" dizini oluşturuluyor.
-          "cmTC_90e69.dir\\Debug\\cmTC_90e69.tlog\\" dizini oluşturuluyor.
+          "cmTC_851cf.dir\\Debug\\" dizini oluşturuluyor.
+          "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6l3w3i\\Debug\\" dizini oluşturuluyor.
+          "cmTC_851cf.dir\\Debug\\cmTC_851cf.tlog\\" dizini oluşturuluyor.
         InitializeBuildStatus:
-          "AlwaysCreate" belirtildiği için "cmTC_90e69.dir\\Debug\\cmTC_90e69.tlog\\unsuccessfulbuild" oluşturuluyor.
+          "AlwaysCreate" belirtildiği için "cmTC_851cf.dir\\Debug\\cmTC_851cf.tlog\\unsuccessfulbuild" oluşturuluyor.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_90e69.dir\\Debug\\\\" /Fd"cmTC_90e69.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_851cf.dir\\Debug\\\\" /Fd"cmTC_851cf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.34.31937
           CMakeCXXCompilerABI.cpp
           Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_90e69.dir\\Debug\\\\" /Fd"cmTC_90e69.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_851cf.dir\\Debug\\\\" /Fd"cmTC_851cf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6wbslq\\Debug\\cmTC_90e69.exe" /INCREMENTAL /ILK:"cmTC_90e69.dir\\Debug\\cmTC_90e69.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6wbslq/Debug/cmTC_90e69.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6wbslq/Debug/cmTC_90e69.lib" /MACHINE:X64  /machine:x64 cmTC_90e69.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_90e69.vcxproj -> C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6wbslq\\Debug\\cmTC_90e69.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6l3w3i\\Debug\\cmTC_851cf.exe" /INCREMENTAL /ILK:"cmTC_851cf.dir\\Debug\\cmTC_851cf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6l3w3i/Debug/cmTC_851cf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/CMakeScratch/TryCompile-6l3w3i/Debug/cmTC_851cf.lib" /MACHINE:X64  /machine:x64 cmTC_851cf.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_851cf.vcxproj -> C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6l3w3i\\Debug\\cmTC_851cf.exe
         FinalizeBuildStatus:
-          "cmTC_90e69.dir\\Debug\\cmTC_90e69.tlog\\unsuccessfulbuild" dosyası siliniyor.
-          "cmTC_90e69.dir\\Debug\\cmTC_90e69.tlog\\cmTC_90e69.lastbuildstate" öğesine erişiliyor.
-        "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6wbslq\\cmTC_90e69.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
+          "cmTC_851cf.dir\\Debug\\cmTC_851cf.tlog\\unsuccessfulbuild" dosyası siliniyor.
+          "cmTC_851cf.dir\\Debug\\cmTC_851cf.tlog\\cmTC_851cf.lastbuildstate" öğesine erişiliyor.
+        "C:\\OPEN-CV Projects\\Document Scanner Project\\Image-Processing\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6l3w3i\\cmTC_851cf.vcxproj" Projesini Oluşturma İşlemi Tamamlandı (varsayılan hedefler).
         
         Oluşturma başarılı oldu.
             0 Uyarı
             0 Hata
         
-        Geçen Süre 00:00:00.58
+        Geçen Süre 00:00:00.65
         
       exitCode: 0
 ...

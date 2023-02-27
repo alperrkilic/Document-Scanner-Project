@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\build\Debug\opencvtest.exe</FullPath>
+      <FullPath>C:\OPEN-CV Projects\Document Scanner Project\Image-Processing\build\Release\opencvtest.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

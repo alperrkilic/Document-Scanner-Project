@@ -7,6 +7,7 @@ C:/OPEN-CV Projects/Document Scanner Project/Image-Processing/build/CMakeFiles/3
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeFindFrameworks.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
@@ -19,11 +20,13 @@ C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPythonLibs.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/SelectLibraryConfigurations.cmake
 C:/opencv/build/x64/vc16/lib/OpenCVConfig-version.cmake
 C:/opencv/build/x64/vc16/lib/OpenCVConfig.cmake
 C:/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake

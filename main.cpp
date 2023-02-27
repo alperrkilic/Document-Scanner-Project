@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm>
 #include <opencv2/opencv.hpp>
+#include <Python.h>
 
 using namespace cv;
 using namespace std;
@@ -49,11 +50,13 @@ int main(int argc, char **argv)
   imshow("Image Warp", imgWarp);
   imshow("Image Crop", imgCrop);
   waitKey(0);
+  imwrite("output.jpg", imgCrop);
 
+  system("python main.py");
   return 0;
 }
 
-Mat preProcessing(Mat img)
+Mat preProcessing(Mat img) // returns image
 {
   cvtColor(img, imgGray, COLOR_BGR2GRAY); // apply gray color (COLOR_BGR2GRAY) to img and then store it into imgGray
   GaussianBlur(imgGray, imgBlur, Size(3, 3), 3, 0);
@@ -81,7 +84,7 @@ vector<Point> getContours(Mat image)
   for (int i = 0; i < contours.size(); i++)
   {
     int area = contourArea(contours[i]); // finding contour areas, to avoid little ones controlling with if statement
-    cout << area << endl;
+    // cout << area << endl;
     if (area > 1000)
     {
       float peri = arcLength(contours[i], true);
@@ -159,7 +162,7 @@ Mat getWarp(Mat img, vector<Point> points, float w, float h)
   // bottom must be specified as h and finally the last point is assigned as w and h.
 
   Mat matrix = getPerspectiveTransform(src, dst);     // getting the perspective from src to dst and storing it into matrix
-  warpPerspective(img, imgWarp, matrix, Point(w, h)); // and warping the perspective into imgWarp global variable from matrix with point(w,h)
+  warpPerspective(img, imgWarp, matrix, Point(w, h)); // and warping the perspective into imgWarp global variable from matrix with point(w,h) //TODO
 
   return imgWarp;
 }
